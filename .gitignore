@@ -1,0 +1,9 @@
+.env
+.env.*
+*.key
+*.pem
+ga-reader.json
+key.json
+.DS_Store
+books/
+tests/
