@@ -1,9 +1,0 @@
-# The Little Books of Generative AI Prompts
-
-> The 2027 edition of The Little Books of Generative AI Prompts by Mark Anderson (ICT Evangelist) is coming soon. This is a holding page for now.
-
-Author: Mark Anderson (ICT Evangelist), https://ictevangelist.com
-
-## Work with Mark
-
-- [Contact](https://ictevangelist.com/contact/): keynotes, INSET days, training and digital strategy support for schools and trusts
