@@ -1,0 +1,23 @@
+# The Little Books of Generative AI Prompts
+
+> The 2027 edition of The Little Books of Generative AI Prompts by Mark Anderson (ICT Evangelist): four books of tested AI prompts for people who work in schools in England. The site is a holding page for now and the prompts are coming soon.
+
+Author: Mark Anderson (ICT Evangelist), https://ictevangelist.com
+Licence: Creative Commons BY-NC-SA 4.0.
+
+## The four books
+
+- The Little Book of Generative AI Prompts for Primary Teachers
+- The Little Book of Generative AI Prompts for Secondary Teachers
+- The Little Book of Generative AI Prompts for School and Trust Leaders
+- The Little Book of Generative AI Prompts for Support Staff
+
+## Work with Mark
+
+- [Contact](https://ictevangelist.com/contact/): keynotes, INSET days, training and digital strategy support for schools and trusts
+
+## Also free from Mark
+
+- [AI Literacy Curriculum](https://ailiteracycurriculum.ictevangelist.com)
+- [AI Governance in Education](https://aigovernance.ictevangelist.com)
+- [Pedagogy First](https://pedagogyfirst.ictevangelist.com)
